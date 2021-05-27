@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/sritejak/.dotnet/store/|arch|/|tfm|",
+      "/Users/sritejak/.nuget/packages"
+    ]
+  }
+}

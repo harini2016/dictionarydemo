@@ -1,0 +1,12 @@
+/Users/sritejak/dictionarydemo/bin/Debug/netcoreapp3.1/dictionarydemo.deps.json
+/Users/sritejak/dictionarydemo/bin/Debug/netcoreapp3.1/dictionarydemo.runtimeconfig.json
+/Users/sritejak/dictionarydemo/bin/Debug/netcoreapp3.1/dictionarydemo.runtimeconfig.dev.json
+/Users/sritejak/dictionarydemo/bin/Debug/netcoreapp3.1/dictionarydemo.dll
+/Users/sritejak/dictionarydemo/bin/Debug/netcoreapp3.1/dictionarydemo.pdb
+/Users/sritejak/dictionarydemo/obj/Debug/netcoreapp3.1/dictionarydemo.csprojAssemblyReference.cache
+/Users/sritejak/dictionarydemo/obj/Debug/netcoreapp3.1/dictionarydemo.AssemblyInfoInputs.cache
+/Users/sritejak/dictionarydemo/obj/Debug/netcoreapp3.1/dictionarydemo.AssemblyInfo.cs
+/Users/sritejak/dictionarydemo/obj/Debug/netcoreapp3.1/dictionarydemo.csproj.CoreCompileInputs.cache
+/Users/sritejak/dictionarydemo/obj/Debug/netcoreapp3.1/dictionarydemo.dll
+/Users/sritejak/dictionarydemo/obj/Debug/netcoreapp3.1/dictionarydemo.pdb
+/Users/sritejak/dictionarydemo/obj/Debug/netcoreapp3.1/dictionarydemo.genruntimeconfig.cache
