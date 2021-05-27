@@ -28,17 +28,52 @@ dotnet --version
 3.1.409
 
 2. Clone the repo.
-3. Run the dotnet command to clean and build - dotnet clean and dotnet build.
-4. Run the command dotnet run 
+3. Run the dotnet commands to clean and build - dotnet clean and dotnet build.
+4. Run the command dotnet run to run the program
 5. We can run the following commands
+6. REMOVEALL is something I could not finish because of time crunch.
+7. I made slight modification to commands. Instead of ADD foo bar, please type in add and it will ask you to enter key value pairs, please enter values only when prompted.
+8. For add, once you press enter it will ask us for a message to enter key value pair. You can keep entering other commands like keys, members, allmembers one after
 
+
+Please refer the sample output I am seeing 
+
+Please enter an option from below: 
+ADD
 KEYS
 MEMBERS
-ADD
+KEYEXISTS
+VALUEEXISTS
+REMOVE
+REMOVEALL
+CLEAR
 ALLMEMBERS
 ITEMS
-
-For add, once you press enter it will ask us for a message to enter key value pair. You can enter foo bat to add the key value pair to the list.
+add
+Please enter key value pair
+foo bar
+ADDED
+add
+Please enter key value pair
+foo baz
+ADDED
+add bar bang
+Unknown option chosen.  Please enter valid option:
+add
+Please enter key value pair
+bar bang
+ADDED
+items
+1) foo: bar
+2) foo: baz
+3) bar: bang
+allmembers
+1) bar
+2) baz
+3) bang
+keys
+1) foo
+2) bar
 
 Ctrl + C will quit the program.
 
