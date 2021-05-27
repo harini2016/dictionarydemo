@@ -38,7 +38,7 @@ dotnet --version
 
 Please refer the sample output I am seeing 
 
-Please enter an option from below: 
+```Please enter an option from below: 
 ADD
 KEYS
 MEMBERS
@@ -73,7 +73,7 @@ allmembers
 3) bang
 keys
 1) foo
-2) bar
+2) bar```
 
 Ctrl + C will quit the program.
 
