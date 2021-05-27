@@ -73,11 +73,11 @@ allmembers
 3) bang
 keys
 1) foo
-2) bar```
+2) bar
 
 Ctrl + C will quit the program.
 
-
+```
 
 
 
